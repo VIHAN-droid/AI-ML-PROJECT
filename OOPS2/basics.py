@@ -16,7 +16,7 @@ print('\n',dog1.name) # to get the name of dog1
 
 class dog:  # dog class is defined
 
-    species = "bull dog" # class variable
+    species = "bull dog" # class variable  --> shared by all objects of this class
 
     def __init__(self,name,weight): # init method to initialize object attributes
         self.name = name
