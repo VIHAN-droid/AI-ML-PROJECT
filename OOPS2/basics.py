@@ -64,3 +64,12 @@ b1.display_balance()
 
 b1.withdraw(7000)
 b1.display_balance()
+
+
+# --------------------------------------------------------------------------------------------------------
+
+# USING OPERATONS ON OBJECTS
+
+# __add__(self, other)
+# __sub__(self, other)
+# __mul__(self, other)  similarly for or,and,xor,gt(greater than),lt(less than),ge(greater than equal to),le(less than equal to),etc.
