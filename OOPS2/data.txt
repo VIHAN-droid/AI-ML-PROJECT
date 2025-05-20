@@ -1,0 +1,11 @@
+car mini 5 Hyundai 3200 2
+car suv 7 Toyota 4800 3
+bike 2 Yamaha 2000 1
+car suv 7 Ford 4400 4
+car mini 5 Honda 3000 2
+bike 2 Bajaj 1600 5
+car suv 7 Mahindra 4000 6
+car mini 5 Kia 3400 1
+bike 2 RoyalEnfield 2400 3
+car suv 7 MG 4600 2
+bike 2 RoyalEnfield 2000 3
