@@ -5,7 +5,7 @@ print(x[0],x[-1])
 
 # accessing multi-dim element
 
-    # inefficient method -> it creates and intermediate arr i.e x[1] and thes acces [0] from it
+    # inefficient method -> it creates and intermediate arr i.e x[1] and then access [0] from it
 x = np.array([[1,2,3],[4,5,6],[7,8,9]])
 print(x[1][0])
 
